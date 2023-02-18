@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.ts"],"names":[],"mappings":";;;;;AAAA,+CAA0C;AAC1C,+CAA0C;AAE1C,wCAAmC;AACnC,uCAAkC","file":"index.js","sourcesContent":["export * from './customer-list.component';\nexport * from './customer-form.component';\n\nexport * from './customer.service';\nexport * from './customer.module';\nexport * from './customer'"]}

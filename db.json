@@ -1,0 +1,36 @@
+{
+  "customer": [],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "employees": [
+    {
+      "firstName": "gulam",
+      "lastName": "zeelani",
+      "email": "test@gmail.com",
+      "dob": "2023-01-31T18:30:00.000Z",
+      "gender": "",
+      "profile": "",
+      "company": "",
+      "experience": "",
+      "package": "",
+      "id": 3
+    },
+    {
+      "firstName": "afroz",
+      "lastName": "zeelani",
+      "email": "test@gmail.com",
+      "dob": "2023-01-31T18:30:00.000Z",
+      "gender": "male",
+      "profile": "BACKEND DEVELOPER",
+      "company": "kasper infotech",
+      "experience": 2,
+      "package": 122344,
+      "id": 4
+    }
+  ]
+}

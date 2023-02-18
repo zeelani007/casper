@@ -1,0 +1,1 @@
+{"version":3,"sources":["customer.ts"],"names":[],"mappings":"","file":"customer.js","sourcesContent":["/* Defines the customer entity */\nexport interface Customer {\n  id: number;\n  avatar: string;\n  firstname: string;\n  lastname: string;\n  rewards: number;\n  email: string;\n  membership: boolean;\n  mobile: string;\n  phone: string;\n}\n"]}
