@@ -47,12 +47,3 @@ install -g serve
 serve dist
 
 ```
-
-## Welcome to fork or clone!
-
-For detailed explanation on how things work, checkout following links please.
-
-* [angular](https://angular.io/)
-* [angular-material](https://material.angular.io/)
-* [ng-charts](https://github.com/valor-software/ng2-charts)
-* [rxjs](https://rxjs.dev/api)
